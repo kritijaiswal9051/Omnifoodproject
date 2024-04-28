@@ -1,6 +1,5 @@
 console.log("Hello world!");
 
-const myName = "kriti Jaiswal";
 const h1 = document.querySelector(".heading-primary");
 console.log(h1);
 console.log(myName);
